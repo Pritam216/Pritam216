@@ -10,10 +10,19 @@
 
 # 📊 GitHub Stats:
 <div>
-  ![](https://github-readme-stats.vercel.app/api?username=pritam216&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-  ![](https://nirzak-streak-stats.vercel.app/?user=pritam216&theme=dark&hide_border=false)<br/>
+  <a href="https://github.com/pritam216">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=pritam216&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+  </a>
+  <a href="https://github.com/pritam216">
+    <img align="center" src="https://nirzak-streak-stats.vercel.app/?user=pritam216&theme=dark&hide_border=false" />
+  </a>
+  <a href="https://github.com/pritam216">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pritam216&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  </a>
 </div>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pritam216&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!-- ![](https://github-readme-stats.vercel.app/api?username=pritam216&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=pritam216&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pritam216&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=pritam216&theme=radical&no-frame=false&no-bg=true&margin-w=4)
