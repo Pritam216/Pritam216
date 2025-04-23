@@ -11,10 +11,10 @@
 # 📊 GitHub Stats:
 <div>
   <a href="https://github.com/pritam216">
-    <img width=100px align="center" src="https://github-readme-stats.vercel.app/api?username=pritam216&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+    <img width=500px align="center" src="https://github-readme-stats.vercel.app/api?username=pritam216&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
   </a>
   <a href="https://github.com/pritam216">
-    <img width=100px align="center" src="https://nirzak-streak-stats.vercel.app/?user=pritam216&theme=dark&hide_border=false" />
+    <img width=500px align="center" src="https://nirzak-streak-stats.vercel.app/?user=pritam216&theme=dark&hide_border=false" />
   </a>
   <a href="https://github.com/pritam216">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pritam216&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
