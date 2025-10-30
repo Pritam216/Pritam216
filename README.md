@@ -71,7 +71,7 @@ Problem-solving • Adaptability • Time Management
 <div display=flex justify-content=space-evenly align-item=center>
   <a href="https://github.com/pritam216">
     <img width=400px align="center" src="https://github-readme-stats.vercel.app/api?username=pritam216&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
-  </a>
+  </a><br><br>
   <a href="https://github.com/pritam216">
     <img width=400px align="center" src="https://nirzak-streak-stats.vercel.app/?user=pritam216&theme=dark&hide_border=false" />
   </a><br><br>
