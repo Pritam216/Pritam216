@@ -91,15 +91,15 @@ Problem-solving • Adaptability • Time Management
 
 🔭 Currently Working On
 
-🚀 Developing innovative AI-driven systems combining Machine Learning, IoT, and Full-Stack apps.
-🎯 Exploring LLMs, RAG architectures, and AI Agents for smarter automation.
-🎥 Creating tutorials on AI projects & IoT builds for my YouTube community.
+🚀 Developing innovative AI-driven systems combining Machine Learning, IoT, and Full-Stack apps.<br>
+🎯 Exploring LLMs, RAG architectures, and AI Agents for smarter automation.<br>
+🎥 Creating tutorials on AI projects & IoT builds for my YouTube community.<br>
 
 🤝 Let’s Connect & Collaborate
 
-💬 Open to opportunities in AI Engineering, Data Science, or Research roles.
-🌍 Love collaborating on open-source projects and hackathon teams.
-📫 Reach me at kumarroypritam2@gmail.com
+💬 Open to opportunities in AI Engineering, Data Science, or Research roles.<br>
+🌍 Love collaborating on open-source projects and hackathon teams.<br>
+📫 Reach me at kumarroypritam2@gmail.com<br>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=pritam216&icon=0&color=0)](https://visitcount.itsvg.in)
