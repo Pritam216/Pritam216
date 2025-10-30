@@ -1,5 +1,8 @@
 # 💫 About Me:
-🎓 B.Tech student with a passion for Data Science<br>📊 Learning data analysis, machine learning & deep learning <br>🧠 Always curious about how AI & algorithms work  <br>🛠️ Exploring tools like Python, Pandas, NumPy, PyTorch and more<br>📈 Love working on real-world projects and visualizing data  <br>🤝 Open to collaborations and learning from others  <br>💡 Constantly growing through hands-on practice & challenges  <br>🌐 Active on platforms like Kaggle & GitHub to share and learn<br>
+💻 Final-year B.Tech CSE student passionate about Data Science, AI, and IoT.  
+📊 Experienced in building end-to-end ML models for real-world problems with Python, Pandas, and PyTorch.  
+🎥 Part-time YouTuber creating educational content on AI projects, IoT innovations, and tech tutorials.  
+🚀 Constantly exploring how intelligent systems can make everyday life smarter and more efficient.
 
 
 ## 🌐 Socials:
