@@ -243,21 +243,6 @@ AIR 5159 — GATE 2026 (Computer Science) <br>
 
 </table>
 
-<div align="center">
-
-<a href="mailto:kumarroypritam2@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://www.linkedin.com/in/pritamkumarroy">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://pritam-kumar-roy.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
-</a>
-
-</div>
 
 <p align="center">
   <picture>
