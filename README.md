@@ -47,11 +47,6 @@
 <!-- ===================== VISUAL ABOUT SECTION ===================== -->
 
 
-<!-- ===================== HEADER ===================== -->
-
-
-<!-- ===================== HERO ===================== -->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:0f2027&height=140&section=header&text=About%20Me&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
@@ -68,7 +63,7 @@ AIR 5159 — GATE 2026 (Computer Science) <br>
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=6,12,20,24,30"/>
 
 <table align="center" style="border:0;">
 
@@ -200,7 +195,7 @@ AIR 5159 — GATE 2026 (Computer Science) <br>
 
 </p>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=6,12,20,24,30"/>
 # Featured Projects
 
 <table align="center">
