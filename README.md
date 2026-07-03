@@ -1,44 +1,79 @@
-# ⚡ PRITAM KUMAR ROY
+<!-- ========================= HEADER ========================= -->
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Status-Building%20Intelligent%20Systems-00FFA3?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20IoT%20%7C%20Agents-blue?style=flat-square" />
+<h1 align="center">Hi 👋, I'm Pritam Kumar Roy</h1>
+
+<h3 align="center">
+AI Engineer • Generative AI • AI Agents • LangGraph • LangChain
+</h3>
+
+<p align="center">
+Building intelligent AI systems powered by LLMs, RAG, and Agentic AI.
 </p>
 
-> **Final-year Computer Science student, ML developer, and part-time hardware creator.** Bridging the gap between intelligent software architectures (LLMs, RAG, CV) and physical edge computing (microcontrollers, IoT). 
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&random=false&width=700&lines=AI+Engineer;Generative+AI+Developer;AI+Agent+Developer;LangGraph+%7C+LangChain+%7C+RAG;Building+Production+Ready+AI+Applications" />
+
+</p>
 
 ---
 
-### 🔮 THE CORE CORE
-* 🤖 **Agentic Frameworks:** Designing multi-agent workflows using LangGraph and building local, specialized RAG systems.
-* 👁️ **Computer Vision:** Fine-tuning object detection pipelines (YOLOv8) and deep learning image restoration architectures.
-* 📡 **IoT & Microcontrollers:** Prototyping hardware devices with ESP32 and Arduino, and publishing tutorials for the community on YouTube.
+# 💫 About Me
+
+🎓 Final-year B.Tech Computer Science & Engineering Student
+
+🤖 Passionate about **Generative AI, AI Agents, LangGraph, LangChain, and LLM Applications**
+
+🚀 Interested in building production-ready AI systems that solve real-world problems
+
+🏆 AIR **5159** in **GATE 2026 (Computer Science)**
+
+🌱 Currently exploring advanced **Agentic AI**, **Multi-Agent Systems**, **Voice AI**, and **AI Automation**
+
+💬 Ask me about **Python, LangGraph, LangChain, FastAPI, RAG, AI Agents, Hugging Face, and LLM Applications**
 
 ---
 
-### 🛠️ CODESPACE & STACK
+# 🌐 Connect With Me
 
-```yml
-Languages:
-  - Python  # primary
-  - C++
-  - Java
+<p align="center">
 
-AI_and_Agentic_Workflows:
-  - LangGraph, LangChain, Ollama, RAG
-  - Vector_DBs: [Pinecone, FAISS]
-  - Ecosystems: [HuggingFace, AI Agents]
+<a href="mailto:kumarroypritam2@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-Machine_and_Deep_Learning:
-  - Frameworks: [PyTorch, TensorFlow, Keras, Scikit-Learn]
-  - Data_Processing: [Pandas, NumPy, SciPy]
-  - Experiment_Tracking: [MLflow]
+<a href="https://www.linkedin.com/in/pritamkumarroy">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-Computer_Vision:
-  - OpenCV, YOLOv8, Object Detection, Image Classification
+<a href="https://github.com/Pritam216">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-Web_and_Infrastructure:
-  - APIs: [FastAPI, Flask, Streamlit]
-  - UI_Core: [React]
-  - Databases: [MongoDB, MySQL]
-  - Tooling: [Git, GitHub, Google Colab, Kaggle]
+<a href="https://pritam-kumar-roy.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://www.kaggle.com/">
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 🚀 Current Focus
+
+✨ Building AI Agents using LangGraph
+
+🧠 Developing LLM-powered applications
+
+📚 Retrieval-Augmented Generation (RAG)
+
+🎙️ Voice AI Applications
+
+⚡ FastAPI Backend Development
+
+🤖 Multi-Agent Workflows
+
+---
