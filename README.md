@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=6,12,20,24,30&text=Pritam%20Kumar%20Roy&fontSize=60&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=AI%20Engineer%20%7C%20Generative%20AI%20Developer%20%7C%20Agentic%20AI&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,12,20,24,30&text=Pritam%20Kumar%20Roy&fontSize=60&fontColor=ffffff&fontAlignY=38&animation=fadeIn"/>
 
 </div>
 
@@ -12,7 +12,7 @@
 
 <a href="https://git.io/typing-svg">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+Engineer;Generative+AI+Developer;Building+AI+Agents;LangGraph+%7C+LangChain+%7C+RAG;FastAPI+Backend+Developer;Open+Source+Contributor"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&pause=500&color=00F7FF&center=true&vCenter=true&width=900&lines=Generative+AI+Developer;Building+AI+Agents;LangGraph+%7C+LangChain+%7C+RAG;FastAPI+Backend+Developer"/>
 
 </a>
 
@@ -59,7 +59,7 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:0f2027&height=140&section=header&text=About%20Me&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
-<p style="font-size:16px">
+<p style="font-size:20px">
 Building production-ready AI systems using LLMs, Agents, and RAG pipelines  <br>
 B.Tech CSE | Kolkata, India  <br>
 AIR 5159 — GATE 2026 (Computer Science) <br>
@@ -162,7 +162,7 @@ AIR 5159 — GATE 2026 (Computer Science) <br>
 <!--              GITHUB ANALYTICS DASHBOARD                   -->
 <!-- ========================================================= -->
 
-# 📊 GitHub Analytics Dashboard
+# GitHub Analytics Dashboard
 
 <table>
 
@@ -247,8 +247,6 @@ AIR 5159 — GATE 2026 (Computer Science) <br>
 
 </table>
 
-# 📬 Contact
-
 <div align="center">
 
 <a href="mailto:kumarroypritam2@gmail.com">
@@ -265,11 +263,12 @@ AIR 5159 — GATE 2026 (Computer Science) <br>
 
 </div>
 
-
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/Pritam216/Pritam216/output/github-contribution-grid-snake-dark.svg" />
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+    <img alt="github snake" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 ---
