@@ -1,102 +1,108 @@
-<!-- ========================= HEADER ========================= -->
+<!-- ============================ -->
+<!--         HEADER               -->
+<!-- ============================ -->
 
-<h1 align="center">Hi 👋, I'm Pritam Kumar Roy</h1>
+<div align="center">
 
-<h3 align="center">
-AI Engineer • Generative AI • AI Agents • LangGraph • LangChain
-</h3>
+# 👋 Hi, I'm **Pritam Kumar Roy**
 
-<p align="center">
-Building intelligent AI systems powered by LLMs, RAG, and Agentic AI.
-</p>
+### AI Engineer • Generative AI • AI Agents • LangGraph • LangChain
 
-<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3500&pause=1000&color=6C63FF&center=true&vCenter=true&width=750&lines=Building+Production+Ready+AI+Applications;Generative+AI+%7C+LLMs+%7C+RAG;AI+Agents+using+LangGraph;FastAPI+Backend+Developer;Always+Learning+Something+New+🚀"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&random=false&width=700&lines=AI+Engineer;Generative+AI+Developer;AI+Agent+Developer;LangGraph+%7C+LangChain+%7C+RAG;Building+Production+Ready+AI+Applications" />
-
-</p>
+</div>
 
 ---
 
-# 💫 About Me
+<table>
+<tr>
 
-🎓 Final-year B.Tech Computer Science & Engineering Student
+<td width="55%">
 
-🤖 Passionate about **Generative AI, AI Agents, LangGraph, LangChain, and LLM Applications**
+## 💫 About Me
 
-🚀 Interested in building production-ready AI systems that solve real-world problems
+🎓 Final Year B.Tech CSE Student
 
-🏆 AIR **5159** in **GATE 2026 (Computer Science)**
+🏆 AIR **5159** in **GATE 2026 (CS)**
 
-🌱 Currently exploring advanced **Agentic AI**, **Multi-Agent Systems**, **Voice AI**, and **AI Automation**
+🤖 Passionate about **Generative AI & Agentic AI**
 
-💬 Ask me about **Python, LangGraph, LangChain, FastAPI, RAG, AI Agents, Hugging Face, and LLM Applications**
+💡 Interested in building production-ready AI systems
+
+📚 Learning advanced AI architectures every day
+
+💬 Ask me about
+
+- LangGraph
+- LangChain
+- RAG
+- FastAPI
+- Hugging Face
+- AI Agents
+
+</td>
+
+<td width="45%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Pritam216&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+</td>
+
+</tr>
+</table>
 
 ---
-
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
 
 <a href="mailto:kumarroypritam2@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/pritamkumarroy">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="https://github.com/Pritam216">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://pritam-kumar-roy.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white"/>
+<a href="https://pritam-kumar-roy.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
 </a>
 
-<a href="https://www.kaggle.com/">
-<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=Pritam216&style=for-the-badge&color=blue"/>
 
 </p>
 
 ---
-
-# 🚀 Current Focus
-
-✨ Building AI Agents using LangGraph
-
-🧠 Developing LLM-powered applications
-
-📚 Retrieval-Augmented Generation (RAG)
-
-🎙️ Voice AI Applications
-
-⚡ FastAPI Backend Development
-
-🤖 Multi-Agent Workflows
-
----
 # 💻 Tech Stack
 
-## 🖥️ Programming Languages
+<table>
 
-<p align="left">
+<tr>
+<td valign="top" width="50%">
+
+### 🖥️ Languages
+
+<p>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 
 </p>
 
 ---
 
-## 🤖 Generative AI & LLMs
+### 🤖 Generative AI
 
-<p align="left">
+<p>
 
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/LangGraph-4B32C3?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangGraph-5B3FD3?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 
@@ -104,57 +110,57 @@ Building intelligent AI systems powered by LLMs, RAG, and Agentic AI.
 
 <img src="https://img.shields.io/badge/AI%20Agents-8E44AD?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/LoRA%20(PEFT)-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LoRA-FF6F00?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Transformers-FFCA28?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Prompt%20Engineering-00ACC1?style=for-the-badge"/>
 
 </p>
 
 ---
 
-## 🧠 Machine Learning & Deep Learning
+### 🧠 Machine Learning
 
-<p align="left">
+<p>
 
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/CNN-3F51B5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CNN-3949AB?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/RNN-5E35B1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RNN-6A1B9A?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
 
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+
+</p>
+
+</td>
+
+<td valign="top" width="50%">
+
+### ⚡ Backend
+
+<p>
+
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi"/>
+
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask"/>
+
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit"/>
+
+<img src="https://img.shields.io/badge/REST_API-0288D1?style=for-the-badge"/>
 
 </p>
 
 ---
 
-## ⚡ Backend Development
+### 🗄️ Databases
 
-<p align="left">
+<p>
 
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/REST%20API-0288D1?style=for-the-badge"/>
-
-</p>
-
----
-
-## 🗄️ Databases & Vector Stores
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
 
 <img src="https://img.shields.io/badge/FAISS-5C6BC0?style=for-the-badge"/>
 
@@ -164,125 +170,157 @@ Building intelligent AI systems powered by LLMs, RAG, and Agentic AI.
 
 ---
 
-## 🛠️ Developer Tools
+### 🛠️ Tools
 
-<p align="left">
+<p>
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
 
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode"/>
 
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter"/>
 
-<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab"/>
 
 </p>
 
 ---
 
-## 📚 Core Computer Science
+### 📚 Core CS
 
-<p align="left">
+<p>
 
-<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-00599C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DSA-00599C?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/OOP-6A1B9A?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/DBMS-1976D2?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Operating%20Systems-455A64?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OS-455A64?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Computer%20Networks-00897B?style=for-the-badge"/>
-
-</p>
-
----
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Pritam216&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pritam216&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://img.shields.io/badge/CN-00897B?style=for-the-badge"/>
 
 </p>
 
+</td>
+</tr>
+
+</table>
+
 ---
+# 📊 GitHub Dashboard
 
-# 🔥 GitHub Streak
+<table>
+<tr>
 
-<p align="center">
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Pritam216&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+</td>
+
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pritam216&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
 
 <img src="https://streak-stats.demolab.com?user=Pritam216&theme=tokyonight&hide_border=true"/>
 
-</p>
+</td>
+
+<td width="50%">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pritam216&theme=tokyonight&utcOffset=5.5"/>
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
-# 📈 Contribution Graph
+## 📈 Contribution Summary
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pritam216&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Pritam216&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
-
-</p>
-
----
-
-# ⚡ Profile Summary
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pritam216&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pritam216&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pritam216&theme=tokyonight"/>
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pritam216&theme=tokyonight"/>
 
 </p>
 
 ---
+# 🚀 Currently Learning
 
-# 👀 Profile Views
+<table>
 
-<p align="center">
+<tr>
 
-<img src="https://komarev.com/ghpvc/?username=Pritam216&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<td>
 
-</p>
+🤖 Multi-Agent Systems
+
+</td>
+
+<td>
+
+🧠 Agentic AI
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+📚 Advanced LangGraph
+
+</td>
+
+<td>
+
+⚡ AI Automation
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+🎙️ Voice AI
+
+</td>
+
+<td>
+
+🔍 Advanced RAG
+
+</td>
+
+</tr>
+
+</table>
 
 ---
+<div align="center">
 
-# 🐍 Contribution Snake
+<img src="https://komarev.com/ghpvc/?username=Pritam216&style=for-the-badge&color=6C63FF"/>
 
-<p align="center">
+<br><br>
 
-<img src="https://raw.githubusercontent.com/Pritam216/Pritam216/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+### ⭐ Thanks for visiting my profile!
 
-</p>
+Building intelligent AI systems with **LLMs**, **RAG**, and **AI Agents**.
 
----
-
-<h3 align="center">
-⭐ Thanks for visiting my profile ⭐
-</h3>
-
-<p align="center">
-Building intelligent AI systems with LLMs, RAG, and Agentic AI 🚀
-</p>
+</div>
