@@ -28,10 +28,6 @@
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/Pritam216">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
 <a href="https://pritam-kumar-roy.vercel.app">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
@@ -59,7 +55,7 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:0f2027&height=140&section=header&text=About%20Me&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
-<p style="font-size:20px">
+<p style="font-size:100px">
 Building production-ready AI systems using LLMs, Agents, and RAG pipelines  <br>
 B.Tech CSE | Kolkata, India  <br>
 AIR 5159 — GATE 2026 (Computer Science) <br>
@@ -271,12 +267,9 @@ AIR 5159 — GATE 2026 (Computer Science) <br>
   </picture>
 </p>
 
----
 
-<div align="center">
+<p align="center">
 
-### ⭐ Thanks for visiting!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:0EA5E9&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=28&fontColor=ffffff&animation=fadeIn"/>
 
-Building intelligent AI systems with **LLMs • LangGraph • RAG • AI Agents**
-
-</div>
+</p>
