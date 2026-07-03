@@ -150,3 +150,42 @@ mindmap
       FastAPI Frameworks
       Vector Stores FAISS
       Relational MySQL Engines
+```
+🤖 Feature 8: Mermaid Multi-Agent Workflow
+Code snippet
+graph LR
+    UserContext([User File Workload]) --> AgentDirector[LangGraph Orchestrator Node]
+    AgentDirector --> AutomatedEDA[DataMind Analytics Engine]
+    AgentDirector --> RealTimeVoice[Samvaad Assistant Node]
+    AutomatedEDA --> ResponseSynthesis[Hallucination Containment Filter]
+    RealTimeVoice --> LiveKitStreaming[LiveKit Audio Channel Engine]
+    ResponseSynthesis --> ProductionOutput([Grounded Structural Insight])
+    LiveKitStreaming --> ProductionOutput
+    
+    style UserContext fill:#06060e,stroke:#00f0ff,stroke-width:2px
+    style AgentDirector fill:#14142b,stroke:#ff007f,stroke-width:2px
+    style AutomatedEDA fill:#14142b,stroke:#7000ff,stroke-width:1px
+    style RealTimeVoice fill:#14142b,stroke:#7000ff,stroke-width:1px
+    style ProductionOutput fill:#06060e,stroke:#50fa7b,stroke-width:2px
+🏗️ Feature 9: Mermaid AI Architecture Diagram
+Code snippet
+architecture-beta
+    group networkBoundary(server)[API Access Boundary Layer]
+    group logicRuntime(cpu)[Execution Framework Core]
+    group indexStorage(database)[Persistent Matrix Store]
+
+    service endpointGateway(internet)[FastAPI Real-Time Hook] in networkBoundary
+    service systemGraph(hub)[LangGraph Pipeline Executor] in logicRuntime
+    service transformerCore(brain)[PyTorch Model Backbones] in logicRuntime
+    service highPerfIndex(storage)[Vector DB FAISS / Pinecone] in indexStorage
+
+    endpointGateway:R2L --> systemGraph
+    systemGraph:T2B --> transformerCore
+    transformerCore:B2T --> highPerfIndex
+⏱️ Feature 10: Mermaid Timeline
+Code snippet
+timeline
+    title System Project Chronology
+    Nov 2025 - Present : Enhanced DeblurGANv2 Node Deployment : Feature Pyramid Generator Optimizations via NAFNet & RRDB Implementation
+    Jan 2026 - Jan 2026 : DataMind-2.0 System Execution : Automated Exploratory Data Analysis & Unstructured CSV Grounding Pipelines
+    Apr 2026 - Jun 2026 : Samvaad Voice Interface Launch : Real-Time Low-Latency Medical Appointment Graph Architectures
