@@ -52,11 +52,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:0f2027&height=140&section=header&text=About%20Me&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 <p style="font-size:100px">
 Building intelligent AI products powered by LLMs, Agents, RAG, and Voice AI <br>
-From research prototypes to production-ready AI applications <br>
 Python • LangGraph • LangChain • FastAPI • Hugging Face • PyTorch <br>
 Passionate about AI Engineering, Open Source, and scalable AI systems <br>
 B.Tech CSE | Kolkata, India <br>
-AIR 5159 — GATE 2026 (Computer Science) <br>
 </p>
 </div>
 
