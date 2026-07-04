@@ -196,6 +196,7 @@ AIR 5159 — GATE 2026 (Computer Science) <br>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=6,12,20,24,30"/>
+
 # Featured Projects
 
 <table align="center">
